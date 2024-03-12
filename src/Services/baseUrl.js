@@ -1,0 +1,1 @@
+export const baseUrl = "https://hms-backend-ac85.onrender.com"

@@ -1,0 +1,24 @@
+#Patientsli{
+list-style: none;
+}
+
+#Patientsli li{
+    margin-left: -20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 15px;
+    background-color: #F8F9FA;
+    border-radius: 10px;
+    width: 250px;
+}
+
+#Patientsli li:hover{
+    background-color: #e2eefd;
+    color: #527caf;
+}
+
+
+#Patientsli li.active {
+    background-color: #e2eefd;
+    color: #527caf;
+}
